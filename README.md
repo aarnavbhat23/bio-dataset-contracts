@@ -1,3 +1,11 @@
+# Moved to bio-evidence
+
+This tool is maintained as [`bio_evidence.dataset_contract`](https://github.com/aarnavbhat23/bio-evidence/blob/main/src/bio_evidence/dataset_contract.py) in [bio-evidence](https://github.com/aarnavbhat23/bio-evidence). The package has one API, one test suite and worked public-data cases.
+
+This repository is archived to keep prior commits and results inspectable. Its original standalone documentation is below.
+
+---
+
 # Bio Dataset Contracts
 
 Validate machine-readable dataset contracts for hashes, required metadata, row IDs and split-group separation.
